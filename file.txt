@@ -1,10 +1,10 @@
 a
 b
 c
-d
+delta
 e
 f
 golf
-h
+hotel
 i
 j

@@ -2,9 +2,9 @@ a
 b
 c
 delta
-e
-f
+echo
+foxtrot
 golf
 hotel
-i
-j
+india
+juliett
